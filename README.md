@@ -11,12 +11,12 @@ and keep a recored how many times a square is landed on. When the program finish
 which can be imported into Excel to create tables and graphs for analysing the results
 
 ## pseudocode
-for each player 
-roll dice
-update player location 
-add 1 to squares timesLandedOn
-if on community chest or chance draw card
-if card will move player, move and update position value, add 1 to squares timesLandedOn
+- for each player
+- roll dice
+- update player location
+- add 1 to squares timesLandedOn
+- if on community chest or chance draw card
+- if card will move player, move and update position value, add 1 to squares timesLandedOn
 
 ## Features
 - custom value for number of games and rolls per game
