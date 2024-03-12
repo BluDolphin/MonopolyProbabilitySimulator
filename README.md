@@ -1,4 +1,4 @@
-# MonopolyProbabilitySimulator
+# Monopoly Probability Simulator
 A simple program to find the probability of landing on each square in Monopoly
 
 The program simulates a roll for each player and moves them to the appropriate square, 
